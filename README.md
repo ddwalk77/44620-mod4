@@ -13,3 +13,7 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 * (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
 * (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
 * (Question 4) Questions answered thoughtfully: 2 pts
+
+### DeeDee Walker Project Notes
+- Originally completed the work with export to .text files. This work is in the folder Orig_text_file_version
+- Resubmited project work with files as .json
